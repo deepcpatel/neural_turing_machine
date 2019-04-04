@@ -14,4 +14,5 @@ Run the code by writing following in the terminal:</br>
 
 ## Reference
 1). https://github.com/loudinthecloud/pytorch-ntm </br>
-2). https://arxiv.org/pdf/1410.5401.pdf
+2). https://arxiv.org/pdf/1410.5401.pdf </br>
+3). https://arxiv.org/pdf/1807.08518.pdf
