@@ -36,9 +36,9 @@ class task_copy():
         # 0 0 1 0 1  | 0 1 0 1 1 | 0 1 0 0 1 | 0 0 1 1 0
         # 0 1 1 0 1  | 1 1 0 0 0 | 1 0 1 0 1 | 0 0 1 1 0
         #
-        # Above is the exampe of data. num_data_rows = 3, num_data_columns = 5, batch_size = 4
+        # Above is the example of data. num_data_rows = 3, num_data_columns = 5, batch_size = 4
         #
-        # At a time we will give each row strip to the NTM for prediction as shown below. Therefore input size for one interation will be (batch_size x num_data_columns)
+        # At a time we will give each row strip to the NTM for prediction as shown below. Therefore input size for one interaction will be (batch_size x num_data_columns)
         # 
         # 1 1 1 0 1  | 1 1 0 1 0 | 1 1 1 0 1 | 1 0 1 1 1
         
