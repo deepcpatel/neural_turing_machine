@@ -5,7 +5,8 @@ from torch import optim
 import numpy as np
 import random
 
-from NTM.ntm import NTM_Module
+# from NTM.ntm import NTM_Module            # Original Implementation
+from NTM_stable.ntm import NTM_Module       # Stable implementation as given in "Implementing Neural Turing Machines" paper
 
 class task_copy():
 
