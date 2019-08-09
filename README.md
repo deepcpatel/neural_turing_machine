@@ -3,8 +3,7 @@ An implementation of [Neural Turing Machine](https://arxiv.org/pdf/1410.5401.pdf
 
 **Original Platform:** Ubuntu 18.04</br>
 **Language:** Python 3.6</br>
-**Libraries required:** (1). NumPy </br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(2). PyTorch
+**Libraries required:** NumPy & PyTorch
 
 Run the code by writing following in the terminal:</br>
 ``python3 train.py``
