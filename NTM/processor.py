@@ -73,5 +73,5 @@ class processor(nn.Module):
 
         # Generating Output
         inp2 = torch.cat([c_output] + read_vec, dim = 1)
-        out = torch.sigmoid(self.proc(inp2))
+        out = self.proc(inp2)
         return out, curr_state

@@ -2,6 +2,8 @@ import pytest
 import torch
 from NTM.memory import memory_unit
 
+# Testing script by loudinthecloud
+
 def _t(*l):
     return torch.Tensor(l).unsqueeze(0)
 
