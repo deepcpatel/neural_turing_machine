@@ -12,7 +12,7 @@ Run the code by writing following in the terminal:</br>
 **Note-2:** The code is not extensively tested. However, you are welcome to report any bugs if found.</br></br>
 **Note-3:** You are encouraged to contribute to this repo or provide any suggestions. 
 
-## Reference
+## References
 **[1]**. https://github.com/loudinthecloud/pytorch-ntm </br>
 **[2]**. Graves, A., Wayne, G. and Danihelka, I., 2014. Neural turing machines. arXiv preprint arXiv:1410.5401. </br>
 **[3]**. Collier, M. and Beel, J., 2018, October. Implementing neural turing machines. In International Conference on Artificial Neural Networks (pp. 94-104). Springer, Cham.
